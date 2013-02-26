@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GainRoot</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button">gain root</string>
+    <string name="radio0">GingerBreak</string>
+    <string name="radio1">RageAgainstTheCage</string>
+    <string name="radio2">TacoRoot</string>
+    <string name="text">Select an Exploit</string>
+    <string name="radio3">Zygote</string>
+    <string name="no_items">no elements</string>
+    <string name="from">from</string>
+    <string name="since">since</string>
+    <string name="info">detailed information:</string>
+
+</resources>
