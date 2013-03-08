@@ -13,7 +13,7 @@ import at.fhooe.mc.gainroot.essentials.ExploitAdapter;
 import at.fhooe.mc.gainroot.exploits.GingerBreak;
 import at.fhooe.mc.gainroot.exploits.Root4x;
 import at.fhooe.mc.gainroot.exploits.Unroot;
-import at.fhooe.mc.gainroot.exploits.Zygote;
+import at.fhooe.mc.gainroot.exploits.Zimperlich;
 
 /**
  * Show all {@link Exploit}s which are defined in {@link #initExploits()} method
@@ -57,7 +57,7 @@ public class MainActivity extends ListActivity {
 
 		// add exploits
 		m_exploits.add(new GingerBreak());
-		m_exploits.add(new Zygote());
+		m_exploits.add(new Zimperlich());
 		m_exploits.add(new Root4x());
 
 		// add unroot device
